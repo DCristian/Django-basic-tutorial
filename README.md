@@ -1,1 +1,1 @@
-# Django-basic-tutorial
+# Django basic poll aplication
