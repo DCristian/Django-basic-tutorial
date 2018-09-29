@@ -1,1 +1,3 @@
-# Django basic poll aplication
+# Poll App
+
+A simple Django Poll App 
